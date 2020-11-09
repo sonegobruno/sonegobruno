@@ -2,7 +2,7 @@
 ## I'm Bruno 
 - :coffee: I'm a Full Stack developer from Brazil 
 - 🔭 I’m currently working on my personal career as a developer
-- 🌱 I’m currently learning React JS, Node JS and React Native
+- 🌱 I’m currently learning about systems and website development
 - 👯 I’m looking to collaborate on developer comunity
 
 ## Follow me in my social medias:
