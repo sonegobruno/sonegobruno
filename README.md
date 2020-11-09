@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on my personal career as a developer
 - 🌱 I’m currently learning about systems and website development
 - 👯 I’m looking to collaborate on developer comunity
+- :heart: I love to travel and listen to music
 
 ## Follow me in my social medias:
 <a href="https://www.linkedin.com/in/bruno-s%C3%B4nego-ab7124101/" target="_blank">
