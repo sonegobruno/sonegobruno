@@ -1,6 +1,10 @@
 ### Hello, welcome to my page :relaxed:
-## I'm Bruno
-### 
+## I'm Bruno 
+- :coffee: I'm a Full Stack developer from Brazil 
+- 🔭 I’m currently working on my personal career as a developer
+- 🌱 I’m currently learning React JS, Node JS and React Native
+- 👯 I’m looking to collaborate on developer comunity
+
 ## Follow me in my social medias:
 <a href="https://www.linkedin.com/in/bruno-s%C3%B4nego-ab7124101/" target="_blank">
   <img align="center" alt="bruno-linkedin" height="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" />
@@ -8,6 +12,7 @@
 <a href="https://www.instagram.com/sonegob/" target="_blank">
   <img align="center" alt="bruno-instagram" height="30" width="40" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" />
 </a>
+
 
 ## Things I code with
 <a href="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" target="_blank">
@@ -28,6 +33,9 @@
 <a href="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" target="_blank">
   <img align="center" alt="git" src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
 </a>
+
+## My stats
+[![Estatísticas do github de sonegobruno](https://github-readme-stats.vercel.app/api?username=sonegobruno&show_icons=true&theme=dracula)](https://github.com/sonegobruno/github-readme-stats)
 
 <!--
 **sonegobruno/sonegobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
