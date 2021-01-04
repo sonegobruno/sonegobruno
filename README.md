@@ -9,7 +9,7 @@
 
 ## Follow me in my social medias:
 <a href="https://www.linkedin.com/in/bruno-s%C3%B4nego-ab7124101/" target="_blank">
-  <img align="center" alt="bruno-linkedin" height="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" />
+  <img align="center" alt="bruno-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://www.instagram.com/sonegob/" target="_blank">
   <img align="center" alt="bruno-instagram" height="30" width="40" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" />
