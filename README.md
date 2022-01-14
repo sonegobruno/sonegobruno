@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on developer comunity
 - :heart: I love to travel and listen to music
 - ⚡ Fun fact: I play bass guitar 🎸
-- :page_with_curl: My curriculum vitae: https://cv-bruno.vercel.app/
+- :page_with_curl: <a href="https://cv-bruno.vercel.app/" target="_blank">Curriculum Vitae</a>
 
 ## Follow me in my social medias:
 <a href="https://www.linkedin.com/in/bruno-s%C3%B4nego-ab7124101/" target="_blank">
